@@ -1,5 +1,7 @@
 ﻿uses
   System;
+const
+  MAX_INT = Cardinal.MaxValue;
 begin
   var uNumber : Cardinal;
   Console.WriteLine('Input an unsigned integer number');
